@@ -16,8 +16,8 @@
   | Project | What I built | Stack |
   |---|---|---|
   | [Paraport SDK](https://github.com/paraportxyz/sdk) | Cross-chain UI SDK, [W3F-funded](https://github.com/w3f/Grants-Program/pull/2542). Embedded component for Polkadot dApps. | TypeScript, w/ React, Vue and Js Sdk |
-  | [KodaDot](https://github.com/kodadot/nft-gallery) | Leading Polkadot NFT marketplace. 483 PRs. Owned XCM auto-teleport (1-click cross-chain NFT buys), EVM minting, mass-minting, fiat on-ramp, wallet conenct flow. | Vue, Nuxt, TypeScript |
-  | [Chaotic](https://github.com/chaotic-art) | Current leading NFT marketplace. 144 PRs across marketplace core and wallet flows. | Vue, Nuxt, TypeScript |
+  | [KodaDot](https://github.com/kodadot/nft-gallery) | Leading Polkadot NFT marketplace. 483 PRs. Owned XCM auto-teleport (1-click cross-chain NFT buys), EVM minting, mass-minting, fiat on-ramp, wallet conenct flow. | Vue, Nuxt, TypeScript, Workers |
+  | [Chaotic](https://github.com/chaotic-art) | Current leading NFT marketplace. 144 PRs across marketplace core and wallet flows. | Vue, Nuxt, TypeScript, Workers |
   | [dotmemo](https://github.com/dotmemoxyz) | Leasing POAP dApp on Polkadot. 60 PRs spanning app product + Cloudflare Workers. | Vue, Nuxt, Workers |
   | Private payments (WIP) | Handle-first private USDC payments. Active Frontier 2026 submission. | React, Next.js, Umbra SDK, @solana/web3.js |
 
