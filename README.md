@@ -1,6 +1,6 @@
 # Hassnian
 
-  Frontend/fullstack engineer shipping Web3 products.
+  Frontend engineer shipping Web3 products.
 
   Currently building private USDC payments on Solana for [Colosseum Frontier 2026](https://colosseum.org/frontier) — handle-first payments where your `@handle` is your private pay-me URL. React + Next.js + Umbra SDK.
 
